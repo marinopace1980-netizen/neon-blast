@@ -1,6 +1,7 @@
-NEON BLAST V2.3 — PWA INSTALLABILE
+NEON BLAST V2.3.1 — ANDROID PWA FIX
 
-Carica TUTTI i file e la cartella icons/ nella radice del repository GitHub Pages (non caricare lo ZIP).
-Per iPhone: Safari > Condividi > Aggiungi alla schermata Home.
-Per Android: Chrome > menu > Installa app / Aggiungi a schermata Home.
-La prima apertura richiede Internet. Il salvataggio resta locale al browser/app e potrebbe non essere condiviso tra Safari e versione installata.
+Correzione: tutti i file PNG sono nella radice del repository, come manifest, index.html e sw.js.
+Su GitHub: Add file > Upload files; carica i 7 file di questa cartella, NON lo ZIP.
+Attendi la pubblicazione Pages, poi apri Chrome Android, ricarica e prova Installa app.
+Se appare ancora Crea scorciatoia, prova una scheda in incognito o cancella i dati del sito (attenzione: cancellare i dati può eliminare i record).
+Non eliminare i dati del sito se vuoi conservare i progressi.
