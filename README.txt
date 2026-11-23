@@ -1,7 +1,6 @@
-NEON BLAST V2.4.1 — SAVE FIX
+NEON BLAST V2.5 — CHALLENGE EDITION
 
-Correzione: inizializzazione del menu spostata dopo le funzioni di salvataggio, verifica scrittura localStorage, aggiornamento pulsante Riprendi partita e cache offline v2.4.1.
+Novità: Sfida del giorno (700 punti, 150 monete una volta al giorno) e Neon Rush (90 secondi, record separato).
 
-Caricare tutti i 7 file nella radice del repository GitHub Pages. Non cancellare i dati del browser o della app: il salvataggio usa la stessa chiave della V2.4.
-
-Test: avviare una partita, posizionare 2 pezzi, premere Menu, verificare il pulsante Riprendi partita e la griglia dopo il ripristino.
+Mantiene il salvataggio V2.4.1 e le altre modalità.
+Carica i 7 file nella radice del repository GitHub Pages.
