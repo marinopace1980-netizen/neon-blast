@@ -1,6 +1,7 @@
-NEON BLAST V2.5 — CHALLENGE EDITION
+NEON BLAST V2.6 - SPECIAL BLOCKS EDITION
 
-Novità: Sfida del giorno (700 punti, 150 monete una volta al giorno) e Neon Rush (90 secondi, record separato).
-
-Mantiene il salvataggio V2.4.1 e le altre modalità.
-Carica i 7 file nella radice del repository GitHub Pages.
+Novità: 12 livelli speciali, blocchi ghiacciati (1 colpo), blocchi corazzati (2 colpi), Fulmine, Laser e Mega Bomba.
+I nuovi potenziamenti si acquistano nel Negozio e si usano durante le partite.
+Obiettivo livelli speciali: raggiungi il punteggio e libera tutti i blocchi speciali.
+Salvataggio V2.4 compatibile; monete e record preservati.
+Caricare i 7 file nella radice del repository GitHub Pages.
